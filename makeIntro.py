@@ -2,6 +2,7 @@ import cv2
 import numpy as np
 from audioDuration import calculate_audio_duration
 from combineAudioAndVideo import combineAudioAndVideo
+
 def make_intro():
     # Get audio duration
     duration = calculate_audio_duration("audio/question")
