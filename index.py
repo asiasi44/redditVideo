@@ -4,29 +4,21 @@ from combineAudioAndVideo import combineAudioAndVideo, editTheVideo
 from makeIntro import make_intro
 
 content = {
-    "title": "Cheat on your wife with mine? I will burn your life to the ground.",
+    "title": "Hello my name is asim",
     "description": """
-Way back in the early 2000’s, I began to suspect that my wife was up to something. Our two kids were about 4 and 6, still young, but not so young they couldn’t tell you something about what had happened in their day. They started talking a lot about staying with my wife’s parents during the day which wasn’t really that strange in and of itself, but since they lived about 90 minutes away, doing so two or three times a week seemed a bit much (that was basically every day she wasn’t working at her part time job).
-
-When I asked her about it, she denied it, but was never a good liar. So, I started tracking the mileage on her car and sure enough, she was driving an extra 400 or so miles per week. I knew some shit was going on.
-
-Then one day I sat down at the computer and she had left a sticky note with her AOL password written on it next to the keyboard. I could not resist and logged in to read her emails and saw a few email exchanges between her and her college BFF where they discussed how my wife was regularly fucking one of her ex bf’s from high school. No mention of details about him other than my wife also talking shit about his wife making fun of how she’d gotten fat after having kids. Anyway, I printed out these email exchanges and stashed them.
-
-I still needed to know the details, so I called a friend who was a cop and he suggested I call a guy he knew that had left the force to become a PI. “Ron” was great, I paid his retainer and gave him the emails and what little I knew about my wife’s activities and he figured out exactly what she was doing. His report detailed with photos and times/dates/locations all about how she would take the kids to her parent’s, then go meet this guy for lunch, then they’d go to a dumpy motel for a few hours, after which she’d pick up the kids and return home.
-
-At this point, I hired a divorce lawyer. My parents cheated on each other and the fallout absolutely fucked mine and my siblings’ childhood. It was something that was totally unacceptable.
-
-I also asked Ron to find out what he could about this guy. Ron absolutely came through. I learned his name (“Bob”) , that he was married and had 3 kids. I also found out that he worked as a VP of sales for his father in law’s business. Hmmmm.
-
-At this point, I had my lawyer draw up the divorce papers. I also asked Ron for a couple more copies of his report and I one more thing I wanted him to do for me.
-
-On the same day I had my wife served with the divorce papers at her work, I had Ron meet with this guy’s wife and show her everything he’d found out. She seemed nice and I figured that she deserved to know what her dear hubby was up to. What she did with that information was up to her.
-
-While the information about my wife’s infidelity didn’t really matter in my divorce proceedings, Bob’s wife did a real number on him. According to the publicly available court documents from the divorce and other related proceedings, she cleaned out their joint account, took the kids and left. As soon as her dad found out what he’d done, Bob was fired and since her parents actually owned the house where Bob and his wife lived, he also got evicted. Their divorce was ugly. Lots of fighting in ( and evidently out of) court. I guess Bob went to the house and started arguing with his wife and it escalated to the point the her brother stepped in and Bob got his nose broken. There were restraining orders, a few more incidents with police reports, criminal charges, jail time and so on.
-
-I can’t find Bob on the internet anywhere these days. Last I heard, he’d left the state and His ex wife did ok, she went to work at her dad’s company and took over after he retired.
-
-As for me, my ex and I got along well enough, I didn’t engage with her on anything that wasn’t related to the kids and now that they’re both adults, I don’t talk to her at all anymore. I don’t hate her or anything, but I only care in the context that she is my kids’ mom and is important to them, nothing beyond that.
+I am twenty-five years old. My best friend, whose name is Emma, is twenty-six years old. She has been in my life for as long as I can remember, and I genuinely cannot imagine my life without her in it. She has always been that person I can count on, my closest friend and my biggest support system. She was the very first person I confided in when I came out during high school, and her response was simply to smile and ask if I wanted to get some pizza. That is just the kind of person she is, and it is part of the reason she is so special to me.
+To be honest, I was head over heels in love with Emma during my teenage years. My feelings for her were so deep that it felt overwhelming. However, I never acted on those feelings because, at the time, she had never expressed any interest in girls. Besides, I was terrified of ruining what we already had, which was such a profound and meaningful friendship. Over time, I eventually moved on and had relationships with other women, but none of them worked out the way I had hoped. Every heartbreak, every disappointment—Emma was always there for me, ready to pick up the pieces.
+Emma, for her part, has always been a private person when it comes to her love life. During high school, she was not really interested in dating, which was completely understandable given the tragic loss of both her parents when she was only sixteen years old. The grief she endured was unimaginable, and it created walls around her heart that few people could get through. Over the years, she managed to rebuild herself, and by college, she met a guy named Adam. They were together for almost six years, and during that time, I genuinely thought they were happy together.
+Last summer, Emma and Adam decided to part ways. From what Emma told me, it was a mutual decision based on growing apart. Around the same time, my own relationship ended in a devastating way when I discovered that the girl I had been dating for three years had cheated on me with multiple people. That heartbreak was one of the hardest things I had ever endured, and Emma was once again there to support me.
+With both of us newly single, we naturally started spending more time together. We would watch movies, grab dinner, go on drives, and just be there for each other. Our bond deepened even more, and while I thought it was just us reconnecting as best friends, there was something beneath the surface that neither of us was acknowledging yet.
+Fast-forward to February, and we had a trip planned to the Caribbean with Emma’s sister, Julie, and Julie’s girlfriend. The night before our flight, we all stayed at Emma’s apartment to make things easier for travel the next morning. While waiting for Julie and her girlfriend to arrive, Emma and I started playing Mario Kart together. As usual, she was extremely competitive, and when I beat her, she tried to wrestle the controller away from me in frustration.
+That playful moment led to something I could never have predicted. Emma pinned me down on the couch, and suddenly her expression changed. She leaned in, hesitated for only a moment, and then kissed me. The kiss caught me completely off guard, but instead of pulling away, I kissed her back. For the first time in years, every buried feeling I had for Emma came rushing to the surface.
+The sound of Julie knocking on the door shattered the moment, and Emma quickly pulled away. For the rest of the evening, everything felt awkward between us. Julie and her girlfriend even noticed and commented on how strange we were acting, but we brushed it off.
+Emma and I were sharing her bed that night, something we had done many times before, but this time it felt entirely different. I almost left the apartment altogether, but I could not bring myself to run away. When I got into bed, Emma was already lying down, looking emotional. She apologized for kissing me and admitted she had no idea why she had done it, but she did not regret it either. She asked if we could have a proper conversation about it when we arrived at the resort because she was not ready to unpack everything that night.
+When we finally got to our hotel, Emma opened up to me in a way she never had before. She admitted that she was not straight, that she had always been interested in both men and women, but that she had kept it to herself. She explained that when we were teenagers, she had been aware of my crush on her, and because she was not ready to explore her own feelings back then, she kept that side of herself hidden. She said she loved being with Adam, but now that they were over, her feelings for me had taken her by surprise.
+When I reminded her that we were cousins, she simply shrugged and said it did not matter to her. That moment broke something inside me. Everything I had ever felt for Emma came rushing back, and I could not deny it anymore. For the rest of the trip, Emma and I decided to quietly explore what it would mean to be a couple.
+We spent that week growing closer than ever. Sharing a room, holding hands when nobody was looking, and talking late into the night felt so natural, so right. I had never experienced a connection like this with anyone else before, and every moment with her felt like it was exactly where I was meant to be.
+Now that we are back home, we agreed to take some time apart to sort through our feelings and figure out what we want. It has been two weeks, and I can barely sleep at night because I miss her so much. Tonight, Emma is coming over because I called her and told her I could not keep going like this without seeing her. I do not know what we will say or where this will go, but I know one thing for sure. I love her.
 """
 }
 
@@ -52,7 +44,7 @@ content["description"] = format_text_for_ascii(content["description"])
 
 listOfFourWords, questionTime = makeDescriptions(content=content)
 
-makeVideo(listOfFourWords, content["title"], questionTime)
+makeVideo(listOfFourWords)
 
 combineAudioAndVideo("savedVideo", "combined_output", "combinedVideo")
 

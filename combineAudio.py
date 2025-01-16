@@ -5,7 +5,6 @@ from moviepy.audio.io.AudioFileClip import AudioFileClip
 def combineAudio(numberOfSentences):
     audio_files = [f"audio/sentence{i}.mp3" for i in range(numberOfSentences)]  # Adjust the range if needed
 
-    audio_files.insert(0, "audio/question.mp3")
     # Step 2: Load all the audio files as AudioFileClip objects
     audio_clips = [AudioFileClip(file) for file in audio_files]
 

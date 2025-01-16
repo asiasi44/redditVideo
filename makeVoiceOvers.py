@@ -17,9 +17,9 @@ def makeVoiceOvers(content):
 
     valid_sentences = clean_sentences(sentences)
 
-    voiceover_function(content["title"], "audio/question")
+    voiceover_function(content["title"], "audio/question", totalSentences = len(valid_sentences))
     for idx, sentence in enumerate(valid_sentences):
-        voiceover_function(sentence, "audio/sentence" + str(idx))
+        voiceover_function(sentence, "audio/sentence" + str(idx), totalSentences = len(valid_sentences))
     
     combineAudio(numberOfSentences=len(valid_sentences))
     return valid_sentences

@@ -17,7 +17,7 @@ def adjust_times(data, newTime):
         end_time = item['endTime']
         words = sentence.split()
         num_words = len(words)
-        num_character = 0
+        num_character = 0   
         for i in range(num_words):
             num_character = len(words[i]) + num_character
         # Calculate time per word (proportional to sentence length)
@@ -42,9 +42,7 @@ def adjust_times(data, newTime):
 
 def makeDescriptions(content):
     getSentences = makeVoiceOvers(content)
-
-    questionTime = calculate_audio_duration("audio/question")
-
+    questionTime = 0
     newTime = questionTime
 
     for idx, eachSentence in enumerate(getSentences):
